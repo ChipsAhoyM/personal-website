@@ -16,11 +16,11 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2021'
+date: '2021-12-07'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021'
+publishDate: '2021-12-07'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
