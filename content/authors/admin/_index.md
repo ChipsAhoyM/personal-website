@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Minggui Teng
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
     url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently pursuing a Ph.D. with Prof. Boxin Shi[https://ci.idm.pku.edu.cn/] at Camera Intelligence Research Lab, PKU. My current research interest lies on Computational Photography and Computer Vision.
+bio: I am currently pursuing a Ph.D. with Prof. [Boxin Shi](https://ci.idm.pku.edu.cn/) at Camera Intelligence Research Lab, PKU. My current research interest lies on Computational Photography and Computer Vision.
 
 # Interests to show in About widget
 #interests:
