@@ -48,7 +48,7 @@ featured: true
 #   url: http://example.org
 
 links: 
-- name: SUPP
+- name: Supp
   url: https://papers.nips.cc/paper/2021/file/5fd0b37cd7dbbb00f97ba6ce92bf5add-Supplemental.pdf
 
 url_pdf: 'https://papers.nips.cc/paper/2021/file/5fd0b37cd7dbbb00f97ba6ce92bf5add-Paper.pdf'
