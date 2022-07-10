@@ -47,8 +47,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
+links: 
+- name: SUPP
+  url: https://papers.nips.cc/paper/2021/file/5fd0b37cd7dbbb00f97ba6ce92bf5add-Supplemental.pdf
+
 url_pdf: 'https://papers.nips.cc/paper/2021/file/5fd0b37cd7dbbb00f97ba6ce92bf5add-Paper.pdf'
-url_code: ''
+url_code: 'https://github.com/fourson/Learning-to-dehaze-with-polarization'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -56,12 +60,16 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+#SUPP: https://papers.nips.cc/paper/2021/file/5fd0b37cd7dbbb00f97ba6ce92bf5add-Supplemental.pdf
+
+#CODE: https://github.com/fourson/Learning-to-dehaze-with-polarization
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: True
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -78,7 +86,5 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 
-SUPP: https://papers.nips.cc/paper/2021/file/5fd0b37cd7dbbb00f97ba6ce92bf5add-Supplemental.pdf
 
-CODE: https://github.com/fourson/Learning-to-dehaze-with-polarization
 ---
