@@ -14,7 +14,7 @@ organizations:
     url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently pursuing a Ph.D. with Prof. [Boxin Shi](https://ci.idm.pku.edu.cn/) at Camera Intelligence Research Lab, PKU. My current research interest lies on Computational Photography and Computer Vision.
+bio: I am currently pursuing a Ph.D. with Prof. [Boxin Shi](https://ci.idm.pku.edu.cn/) at Camera Intelligence Lab, PKU. My current research interest lies on Computational Photography and Computer Vision.
 
 # Interests to show in About widget
 #interests:
@@ -24,15 +24,15 @@ bio: I am currently pursuing a Ph.D. with Prof. [Boxin Shi](https://ci.idm.pku.e
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D in Computer Science and Technology
+    - course: Ph.D in Computer Science
       institution: Peking University
       year: 2021
     - course: B.H. in History
       institution: Peking University
-      year: 2018-2021
-    - course: B.S. in Computer Science and Technology
+      year: 2018
+    - course: B.S. in Computer Science
       institution: Peking University
-      year: 2017-2021
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,4 +68,4 @@ email: 'minggui_teng@pku.edu.cn'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently pursuing a Ph.D. with Prof. [Boxin Shi](https://ci.idm.pku.edu.cn/) at Camera Intelligence Research Lab, PKU. My current research interest lies on Computational Photography and Computer Vision. I am also interested in photography and world history.
+I am currently pursuing a Ph.D. with Prof. [Boxin Shi](https://ci.idm.pku.edu.cn/) at Camera Intelligence Lab, PKU. My current research interest lies on Computational Photography and Computer Vision. I am also interested in photography and world history.
