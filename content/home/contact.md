@@ -26,11 +26,11 @@ content:
 
   # Contact details (edit or remove options as required)
   email: minggui@pku.edu.cn
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: twitter
-      link: 'https://twitter.com/Twitter'
+  #contact_links:
+  #  - icon: twitter
+  #    icon_pack: fab
+  #    name: twitter
+  #    link: 'https://twitter.com/Twitter'
 
 design:
   columns: '2'
