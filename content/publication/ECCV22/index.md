@@ -15,11 +15,11 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-7-20'
+date: '2022-07-20'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-7-20'
+publishDate: '2022-07-20'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,8 +28,8 @@ publishDate: '2022-7-20'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proc. of European Conference on Computer Vision 2022*
-publication_short: In *ECCV 2022*
+publication: In Proc. of European Conference on Computer Vision 2022
+publication_short: In ECCV 2022
 
 abstract: Event cameras demonstrate unique characteristics such as high temporal resolution, low latency, and high dynamic range to improve performance for various image enhancement tasks. However, event streams cannot be applied to neural networks directly due to their sparse nature. To integrate events into traditional computer vision algorithms, an appropriate event representation is desirable, while existing voxel grid and event stack representations are less effective in encoding motion and temporal information. This paper presents a novel event representation named Neural Event STack (NEST), which satisfies physical constraints and encodes comprehensive motion and temporal information sufficient for image enhancement. We apply our representation on multiple tasks, which achieves superior performance on image deblurring and image super-resolution than state-of-the-art methods on both synthetic and real datasets. And we further demonstrate the possibility to generate high frame rate videos with our novel event representation.
 
