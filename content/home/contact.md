@@ -25,7 +25,7 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: minggui@pku.edu.cn
+  email: minggui_teng@pku.edu.cn
   #contact_links:
   #  - icon: twitter
   #    icon_pack: fab
