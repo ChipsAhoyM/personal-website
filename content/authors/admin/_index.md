@@ -26,13 +26,13 @@ education:
   courses:
     - course: Ph.D in Computer Science
       institution: Peking University
+      year: 2026 (expected)
+    - course: B.S. in Computer Science
+      institution: Peking University
       year: 2021
     - course: B.H. in History
       institution: Peking University
-      year: 2018
-    - course: B.S. in Computer Science
-      institution: Peking University
-      year: 2017
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
