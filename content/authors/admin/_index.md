@@ -53,14 +53,14 @@ social:
     link: https://github.com/ChipsAhoyM
   - icon: instagram
     icon_pack: fab
-    link: https://www.instagram.com/chips_ahoy9/
+    link: https://www.instagram.com/teddy.teng.99/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'minggui_teng@pku.edu.cn'
