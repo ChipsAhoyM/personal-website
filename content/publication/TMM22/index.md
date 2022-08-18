@@ -29,8 +29,8 @@ publishDate: '2022-08-01'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Transactions on Multimedia
-publication_short: In TMM 2022
+publication: IEEE Transactions on Multimedia (Early Access)
+publication_short: In TMM 2022 (Early Access)
 
 abstract: Event cameras are bio-inspired cameras that can measure the intensity change asynchronously with high temporal resolution. One of the advantages of event cameras is that they suffer less from motion blur than traditional frame cameras when recording daily scenes with fast-moving objects. In this paper, we formulate the deblurring task on traditional cameras directed by events to be a residual learning one, and propose corresponding network architectures for effective learning of deblurring and high frame rate video generation tasks. We first train a modified U-Net network to restore a sharp image from a blurry image using the corresponding events. Then we train another similar network by replacing the downsampling blocks with blocks of the convolutional long short-term memory (ConvLSTM) to recurrently generate high frame rate video using the restored sharp image and part of the events. Benefitting from the blur-free events and the proposed learning strategy, the experimental results show that the proposed method outperforms state-of-the-art methods for generating sharp images and high frame rate videos.
 
