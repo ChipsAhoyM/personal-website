@@ -68,4 +68,4 @@ email: 'minggui_teng@pku.edu.cn'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently pursuing a Ph.D. with Prof. [Boxin Shi](https://ci.idm.pku.edu.cn/) at Camera Intelligence Lab, PKU. My current research interest lies on Computational Photography and Computer Vision. I am also interested in photography and world history.
+I am currently pursuing a Ph.D. with Prof. [Boxin Shi](https://ci.idm.pku.edu.cn/) at Camera Intelligence Lab, School of Computer Science, PKU. My current research interest lies in Computational Photography and mainly works on Neuromorphic Vision. I am also interested in photography and world history.
