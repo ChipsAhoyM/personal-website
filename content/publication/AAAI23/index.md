@@ -1,13 +1,15 @@
 ---
-title: 'NEST: Neural Event Stack for Event-based Image Enhancement'
+title: 'Polarization-Aware Low-Light Image Enhancement'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Chu Zhou
-  - Hanyue Lou
+  - admin
+  - Youwei Lyu
+  - Si Li
+  - Chao Xu
   - and Boxin Shi
 
 # Author notes (optional)
@@ -15,11 +17,11 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-10-23'
+date: '2023-01-03'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-10-23'
+publishDate: '2023-01-03'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,10 +30,10 @@ publishDate: '2022-10-23'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In Proc. of European Conference on Computer Vision 2022
-publication_short: In ECCV 2022
+publication: In Proc. of the AAAI Conference on Artificial Intelligence
+publication_short: In AAAI 2023
 
-abstract: Event cameras demonstrate unique characteristics such as high temporal resolution, low latency, and high dynamic range to improve performance for various image enhancement tasks. However, event streams cannot be applied to neural networks directly due to their sparse nature. To integrate events into traditional computer vision algorithms, an appropriate event representation is desirable, while existing voxel grid and event stack representations are less effective in encoding motion and temporal information. This paper presents a novel event representation named Neural Event STack (NEST), which satisfies physical constraints and encodes comprehensive motion and temporal information sufficient for image enhancement. We apply our representation on multiple tasks, which achieves superior performance on image deblurring and image super-resolution than state-of-the-art methods on both synthetic and real datasets. And we further demonstrate the possibility to generate high frame rate videos with our novel event representation.
+abstract: Polarization-based vision algorithms have found uses in various applications since polarization provides additional physical constraints. However, in low-light conditions, their performance would be severely degenerated since the captured polarized images could be noisy, leading to noticeable degradation in the degree of polarization (DoP) and the angle of polarization (AoP). Existing low-light image enhancement methods cannot handle the polarized images well since they operate in the intensity domain, without effectively exploiting the information provided by polarization. In this paper, we propose a Stokes-domain enhancement pipeline along with a dual-branch neural network to handle the problem in a polarization-aware manner. Two application scenarios (reflection removal and shape from polarization) are presented to show how our enhancement can improve their results.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -47,12 +49,8 @@ featured: true
 #   url: http://example.org
 
 links: 
-
-- name: Supp
-  url: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660649-supp.pdf
-
-url_pdf: 'https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660649.pdf'
-url_code: 'https://github.com/ChipsAhoyM/NEST'
+url_pdf: 'https://ci.idm.pku.edu.cn/Zhou_AAAI23.pdf'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
