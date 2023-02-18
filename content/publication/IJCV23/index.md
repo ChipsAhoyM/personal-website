@@ -1,5 +1,5 @@
 ---
-title: 'Polarization-Aware Low-Light Image Enhancement'
+title: 'Deblurring Low-Light Images with Events'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,34 +7,34 @@ title: 'Polarization-Aware Low-Light Image Enhancement'
 authors:
   - Chu Zhou
   - admin
-  - Youwei Lyu
-  - Si Li
+  - Jin Han
+  - Jinxiu Liang
   - Chao Xu
+  - Gang Cao
   - and Boxin Shi
 
 # Author notes (optional)
-#author_notes:
+# author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2023-01-03'
+date: '2023-02-06'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-01-03'
+publishDate: '2023-02-06'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In Proc. of the AAAI Conference on Artificial Intelligence
-publication_short: In AAAI 2023
+publication: International Journal of Computer Vision
+publication_short: In IJCV 2023
 
-abstract: Polarization-based vision algorithms have found uses in various applications since polarization provides additional physical constraints. However, in low-light conditions, their performance would be severely degenerated since the captured polarized images could be noisy, leading to noticeable degradation in the degree of polarization (DoP) and the angle of polarization (AoP). Existing low-light image enhancement methods cannot handle the polarized images well since they operate in the intensity domain, without effectively exploiting the information provided by polarization. In this paper, we propose a Stokes-domain enhancement pipeline along with a dual-branch neural network to handle the problem in a polarization-aware manner. Two application scenarios (reflection removal and shape from polarization) are presented to show how our enhancement can improve their results.
-
+abstract: Modern image-based deblurring methods usually show degenerate performance in low-light conditions since the images often contain most of the poorly visible dark regions and a few saturated bright regions, making the amount of effective features that can be extracted for deblurring limited. In contrast, event cameras can trigger events with a very high dynamic range and low latency, which hardly suffer from saturation and naturally encode dense temporal information about motion. However, in low-light conditions existing event-based deblurring methods would become less robust since the events triggered in dark regions are often severely contaminated by noise, leading to inaccurate reconstruction of the corresponding intensity values. Besides, since they directly adopt the event-based double integral model to perform pixel-wise reconstruction, they can only handle low-resolution grayscale active pixel sensor images provided by the DAVIS camera, which cannot meet the requirement of daily photography. In this paper, to apply events to deblurring low-light images robustly, we propose a unified two-stage framework along with a motion-aware neural network tailored to it, reconstructing the sharp image under the guidance of high-fidelity motion clues extracted from events. Besides, we build an RGB-DAVIS hybrid camera system to demonstrate that our method has the ability to deblur high-resolution RGB images due to the natural advantages of our two-stage framework. Experimental results show our method achieves state-of-the-art performance on both synthetic and real-world images.
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -49,8 +49,8 @@ featured: true
 #   url: http://example.org
 
 links: 
-url_pdf: 'https://ci.idm.pku.edu.cn/Zhou_AAAI23.pdf'
-url_code: 'https://github.com/ChipsAhoyM/Polarization-Aware-Low-Light-Image-Enhancement'
+url_pdf: 'https://link.springer.com/article/10.1007/s11263-023-01754-5'
+url_code: 'https://github.com/ChipsAhoyM/Deblurring-Low-Light-Images-with-Events'
 url_dataset: ''
 url_poster: ''
 url_project: ''

@@ -52,7 +52,7 @@ links:
   url: https://papers.nips.cc/paper/2021/file/5fd0b37cd7dbbb00f97ba6ce92bf5add-Supplemental.pdf
 
 url_pdf: 'https://papers.nips.cc/paper/2021/file/5fd0b37cd7dbbb00f97ba6ce92bf5add-Paper.pdf'
-url_code: 'https://github.com/fourson/Learning-to-dehaze-with-polarization'
+url_code: 'https://github.com/ChipsAhoyM/Learning-to-dehaze-with-polarization'
 url_dataset: ''
 url_poster: ''
 url_project: ''
