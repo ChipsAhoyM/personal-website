@@ -23,13 +23,7 @@ content:
   #  netlify:
       # Enable CAPTCHA challenge to reduce spam?
   #    captcha: false
-  courses:
-    - course: B.S. in Computer Science
-      institution: Peking University
-      year: 2021
-    - course: B.H. in History
-      institution: Peking University
-      year: 2021
+
   # Contact details (edit or remove options as required)
   # email: minggui_teng@pku.edu.cn
   #contact_links:
@@ -41,3 +35,11 @@ content:
 design:
   columns: '2'
 ---
+
+B.S. in Computer Science
+institution: Peking University
+year: 2021
+
+course: B.H. in History
+institution: Peking University
+year: 2021
