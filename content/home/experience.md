@@ -1,6 +1,6 @@
 ---
 # An instance of the Contact widget.
-widget: services
+widget: experience
 
 # This file represents a page section.
 headless: true
@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Services
+title: Experience
 subtitle:
 
 content:
@@ -40,6 +40,9 @@ image:
   focal_point: Smart
 
 ---
+
 - Reviewer of Conferences: CVPR, ICCV, ECCV
+
 - Undergraduate Student Mentor, EECS of Peking University, 2021/9-Present
+
 - Teaching Assistant, Computational Photography, Spring 2021-2022
