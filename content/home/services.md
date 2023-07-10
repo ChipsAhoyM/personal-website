@@ -40,9 +40,6 @@ image:
   focal_point: Smart
 
 ---
-
 - Reviewer of Conferences: CVPR, ICCV, ECCV
-
 - Undergraduate Student Mentor, EECS of Peking University, 2021/9-Present
-
 - Teaching Assistant, Computational Photography, Spring 2021-2022
