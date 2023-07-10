@@ -34,12 +34,17 @@ content:
 
 design:
   columns: '2'
+
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
 ---
 
-B.S. in Computer Science
-institution: Peking University
-year: 2021
+[![The template.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)]
 
-course: B.H. in History
-institution: Peking University
-year: 2021
+- Reviewer of Conferences: CVPR, ICCV, ECCV
+
+- Undergraduate Student Mentor, EECS of Peking University, 2021/9-Present
+
+- Teaching Assistant, Computational Photography, Spring 2021-2022
