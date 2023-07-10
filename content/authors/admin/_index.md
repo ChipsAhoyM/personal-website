@@ -14,7 +14,7 @@ organizations:
     url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently pursuing a Ph.D. with Prof. [Boxin Shi](https://ci.idm.pku.edu.cn/) at Camera Intelligence Lab, PKU. My current research interest lies on Computational Photography and Computer Vision.
+bio: I am currently pursuing a PhD. with Prof. [Boxin Shi](https://ci.idm.pku.edu.cn/) at Camera Intelligence Lab, PKU. My current research interest lies on Computational Photography and Computer Vision.
 
 # Interests to show in About widget
 #interests:
@@ -24,9 +24,6 @@ bio: I am currently pursuing a Ph.D. with Prof. [Boxin Shi](https://ci.idm.pku.e
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D in Computer Science
-      institution: Peking University
-      year: 2026 (expected)
     - course: B.S. in Computer Science
       institution: Peking University
       year: 2021
@@ -68,6 +65,6 @@ email: 'minggui_teng@pku.edu.cn'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a second year Ph.D. student in the School of Computer Science, Peking University, advised by Prof. [Boxin Shi](https://ci.idm.pku.edu.cn/) at Camera Intelligence Lab. My current research area is Computational Photography and I mainly focus on neuromorphic cameras (e.g. DVS, Prophesee, Vidar). I hope to combine neuromorphic cameras with deep learning to build the next generation of camera systems through super-human visual sensing and computing.
+I am a second year PhD. student in the School of Computer Science, Peking University, advised by Prof. [Boxin Shi](https://ci.idm.pku.edu.cn/) at Camera Intelligence Lab. My current research area is Computational Photography and I mainly focus on neuromorphic cameras (e.g. DVS, Prophesee, Vidar). I hope to combine neuromorphic cameras with deep learning to build the next generation of camera systems through super-human visual sensing and computing.
 
 I obtained my B.S. in Computer Science from the School of EECS as well as my B.H. in History from the Department of History at Peking University in 2021. During my undergraduate studies, I mainly worked on low-quality image enhancement guided by event cameras. And I am also interested in contemporary world history, especially the history of science and technology.
