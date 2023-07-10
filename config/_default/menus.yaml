@@ -19,8 +19,8 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
-  - name: Experience
-    url: '#experience'
+  - name: Services
+    url: '#services'
     weight: 30
   - name: Contact
     url: '#contact'

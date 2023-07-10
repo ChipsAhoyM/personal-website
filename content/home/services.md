@@ -1,6 +1,6 @@
 ---
 # An instance of the Contact widget.
-widget: experience
+widget: services
 
 # This file represents a page section.
 headless: true
@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Experience
+title: Services
 subtitle:
 
 content:
@@ -40,8 +40,6 @@ image:
   focal_point: Smart
 
 ---
-
-[![The template.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)]
 
 - Reviewer of Conferences: CVPR, ICCV, ECCV
 
