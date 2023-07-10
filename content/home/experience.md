@@ -35,10 +35,6 @@ content:
 design:
   columns: '2'
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
 ---
 
 - Reviewer of Conferences: CVPR, ICCV, ECCV
