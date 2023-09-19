@@ -31,8 +31,8 @@ publishDate: '2023-03-06'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Transactions on Image Processing (Early Access)
-publication_short: In TIP 2023 (Early Access)
+publication: IEEE Transactions on Image Processing
+publication_short: In TIP 2023
 
 abstract: Taking photos with digital cameras often accompanies saturated pixels due to their limited dynamic range, and it is far too ill-posed to restore them. Capturing multiple low dynamic range images with bracketed exposures can make the problem less ill-posed, however, it is prone to ghosting artifacts caused by spatial misalignment among images. A polarization camera can capture four spatially-aligned and temporally-synchronized polarized images with different polarizer angles in a single shot, which can be used for ghost-free high dynamic range (HDR) reconstruction. However, real-world scenarios are still challenging since existing polarization-based HDR reconstruction methods treat all pixels in the same manner and only utilize the spatially-variant exposures of the polarized images (without fully exploiting the degree of polarization (DoP) and the angle of polarization (AoP) of the incoming light to the sensor, which encode abundant structural and contextual information of the scene) to handle the problem still in an ill-posed manner. In this paper, we propose a pixel-wise depolarization strategy to solve the polarization guided HDR reconstruction problem, by classifying the pixels based on their levels of ill-posedness in HDR reconstruction procedure and applying different solutions to different classes. To utilize the strategy with better generalization ability and higher robustness, we propose a network-physics-hybrid polarization-based HDR reconstruction pipeline along with a neural network tailored to it, fully exploiting the DoP and AoP. Experimental results show that our approach achieves state-of-the-art performance on both synthetic and real-world images.
 
