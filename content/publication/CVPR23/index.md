@@ -31,7 +31,7 @@ publication_types: ['1']
 publication: In Proc. of Conference on Computer Vision and Pattern Recognition 2023
 publication_short: In CVPR 2023
 
-abstract: Coming soon!
+abstract: Traditional focal stack methods require multiple shots to capture images focused at different distances of the same scene, which cannot be applied to dynamic scenes well. Generating a high-quality all-in-focus image from a single shot is challenging, due to the highly ill-posed nature of the single-image defocus and deblurring problem. In this paper, to restore an all-in-focus image, we propose the event focal stack which is defined as event streams captured during a continuous focal sweep. Given an RGB image focused at an arbitrary distance, we explore the high temporal resolution of event streams, from which we automatically select refocusing timestamps and reconstruct corresponding refocused images with events to form a focal stack. Guided by the neighbouring events around the selected timestamps, we can merge the focal stack with proper weights and restore a sharp all-in-focus image. Experimental results on both synthetic and real datasets show superior performance over state-of-the-art methods.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -51,11 +51,11 @@ links:
 # - name: Supp
 #   url: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660649-supp.pdf
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://openaccess.thecvf.com/content/CVPR2023/papers/Lou_All-in-Focus_Imaging_From_Event_Focal_Stack_CVPR_2023_paper.pdf'
+url_code: 'https://github.com/HYLZ-2019/EFS'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://hylz-2019.github.io/EFS'
 url_slides: ''
 url_source: ''
 url_video: ''
